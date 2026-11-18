@@ -6,4 +6,4 @@ This repo is dedicated to the reference implementation of an ML solution as well
 
 The dataset for this tutorial is the famous UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
 
-*Note*: for your convenience of the local end-to-end experiments with this repo, the part of 
+*Note*: for your convenience of the local end-to-end experiments with this repo, the part of the dataset has been uploaded to this repo, as a replica.
